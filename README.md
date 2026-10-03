@@ -21,4 +21,4 @@ Milwaukee School Of Engineering: BS Computer Engineering(29')
   - Programmed a Single Cycle Processor structure using VHDL
   - Created a ARMv7 Program which utilized sensors on the 2026 version of the
   MOSE Digibot to create a Digipup which could fetch,spin, do tricks, and more
-  utilization the SCP Structure and Modified ARMv7 Programming Structure
+  utilizing the SCP Structure and Modified ARMv7 Programming Structure

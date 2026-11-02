@@ -1,10 +1,10 @@
 # ComputerAstronaut - Harley Soto
 Hello my name is Harley Soto
-Im a Computer Engineering Student at the Milwaukee School Of Engineering
+I'm a Computer Engineering Student at the Milwaukee School Of Engineering - as of 26' taking a Leave Of Absence (LOA)
 
 # About Me
 
-Milwaukee School Of Engineering: BS Computer Engineering(29')
+Milwaukee School Of Engineering: BS Computer Engineering(XX') (LOA)
 
 # Experience
 
